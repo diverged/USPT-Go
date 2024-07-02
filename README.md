@@ -1,6 +1,6 @@
 ## USPTGo - USPTO Bulk Data Processing in Go
 
-A Go package which accepts USPTO bulk data zip files, and returns standardized objects of structured, formatted patent contents.
+A Go package which accepts U.S. Patent and Trademark Office (USPTO) [bulk data zip files](https://bulkdata.uspto.gov/), and returns standardized objects of structured, formatted patent contents.
 
 For a standalone tool implementation of this package, see [USPTO-Bulk-Data-Tool](github.com/diverged/uspto-bulk-data-tool/).
 
