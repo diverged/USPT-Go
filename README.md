@@ -137,3 +137,7 @@ func main() {
 ```
 
 For a more complete example of how to make use of this package, see [USPTO-Bulk-Data-Tool](github.com/diverged/uspto-bulk-data-tool/).
+
+### License
+
+[MIT](https://github.com/diverged/USPT-Go/blob/main/LICENSE)
