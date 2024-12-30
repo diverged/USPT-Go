@@ -2,7 +2,7 @@
 
 A Go package which accepts U.S. Patent and Trademark Office (USPTO) [bulk data zip files](https://bulkdata.uspto.gov/), and returns standardized objects of structured, formatted patent contents.
 
-For a standalone tool implementation of this package, see [USPTO-Bulk-Data-Tool](github.com/diverged/uspto-bulk-data-tool/).
+For a standalone tool implementation of this package, see [USPTO-Bulk-Data-Tool](https://github.com/diverged/uspto-bulk-data-tool/).
 
 At this time, the USPTGo package supports the following USPTO bulk data products:
 - **Patent Grant Full Text Data (No Images) (2004 - Present)**
@@ -136,7 +136,7 @@ func main() {
 }
 ```
 
-For a more complete example of how to make use of this package, see [USPTO-Bulk-Data-Tool](github.com/diverged/uspto-bulk-data-tool/).
+For a more complete example of how to make use of this package, see [USPTO-Bulk-Data-Tool](https://github.com/diverged/uspto-bulk-data-tool/).
 
 ### License
 
